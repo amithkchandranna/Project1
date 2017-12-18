@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="inset">72dp</dimen>
+    <dimen name="elevation">4dp</dimen>
+    <dimen name="drawerWidth">240dp</dimen>
+    <dimen name="dividerHeight">2dp</dimen>
+    <dimen name="drawerPadding">16dp</dimen>
+</resources>

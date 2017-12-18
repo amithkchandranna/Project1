@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Film Locations</string>
+    <string name="grid_layout_manager">Grid Layout Manager</string>
+    <string name="linear_layout_manager">Linear Layout Manager</string>
+    <string name="copyright">© 2017</string>
+
+    <string name="titleLabel">Title: </string>
+    <string name="dateLabel">Date: </string>
+    <string name="locationLabel">Location: </string>
+    <string name="defaultHintText">NA</string>
+
+    <string name="sortBy">Sort By</string>
+    <string name="sortByTitle">Sort by title</string>
+    <string name="sortByDate">Sort by date</string>
+    <string name="sortByLocation">Sort by location</string>
+
+</resources>
